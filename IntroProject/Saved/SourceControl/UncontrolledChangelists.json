@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/evepg/Documents/Udemy/UE5-Learn-Cpp-And-Make-Video-Games/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/VP/IKELK58LUSTNZO7QPBVK81.uasset",
+				"C:/Users/evepg/Documents/Udemy/UE5-Learn-Cpp-And-Make-Video-Games/IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/69/A6L2XLCXHG5TW7M9N3C8P4.uasset"
+			]
+		}
+	]
+}
