@@ -1,0 +1,12 @@
+# Ignore files larger than GitHub's recommended maximum file size
+ObstacleAssault/ObstacleAssault/Content/Hour_of_Code/HDRI/*.uasset
+ObstacleAssault/ObstacleAssault/Intermediate/Build/Win64/x64/ObstacleAssaultEditor/Development/Engine/*.obj
+
+# Ignore files exceeding GitHub's file size limit
+ObstacleAssault/ObstacleAssault/Intermediate/Build/Win64/x64/ObstacleAssaultEditor/Development/Engine/*.pch
+
+# Exclude Git LFS tracked files
+*.gitattributes
+
+# Ignore large Unreal Engine .obj files
+**/*.obj
