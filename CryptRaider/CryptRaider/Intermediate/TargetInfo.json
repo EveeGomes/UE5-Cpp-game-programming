@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CryptRaider",
+			"Path": "C:\\Users\\evepg\\Documents\\Udemy\\UE5-Learn-Cpp-And-Make-Video-Games\\CryptRaider\\CryptRaider\\Source\\CryptRaider.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CryptRaiderEditor",
+			"Path": "C:\\Users\\evepg\\Documents\\Udemy\\UE5-Learn-Cpp-And-Make-Video-Games\\CryptRaider\\CryptRaider\\Source\\CryptRaiderEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

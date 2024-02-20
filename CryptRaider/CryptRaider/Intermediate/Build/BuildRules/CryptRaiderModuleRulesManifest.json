@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\evepg\\Documents\\Udemy\\UE5-Learn-Cpp-And-Make-Video-Games\\CryptRaider\\CryptRaider\\Source\\CryptRaider\\CryptRaider.Build.cs",
+		"C:\\Users\\evepg\\Documents\\Udemy\\UE5-Learn-Cpp-And-Make-Video-Games\\CryptRaider\\CryptRaider\\Source\\CryptRaider.Target.cs",
+		"C:\\Users\\evepg\\Documents\\Udemy\\UE5-Learn-Cpp-And-Make-Video-Games\\CryptRaider\\CryptRaider\\Source\\CryptRaiderEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
