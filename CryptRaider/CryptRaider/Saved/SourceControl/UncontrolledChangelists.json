@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/evepg/Documents/Udemy/UE5-Learn-Cpp-And-Make-Video-Games/CryptRaider/CryptRaider/Content/Dungeon.umap"
+				"C:/Users/evepg/Documents/Udemy/UE5-Learn-Cpp-And-Make-Video-Games/CryptRaider/CryptRaider/Content/Dungeon.umap",
+				"C:/Users/evepg/Documents/Udemy/UE5-Learn-Cpp-And-Make-Video-Games/CryptRaider/CryptRaider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"C:/Users/evepg/Documents/Udemy/UE5-Learn-Cpp-And-Make-Video-Games/CryptRaider/CryptRaider/Content/BP_Torch_Dungeon.uasset"
 			]
 		}
 	]
